@@ -2,7 +2,6 @@
 
 Reinforcement-learning system for dispatching city service crews across zones in Vancouver, BC, using demand forecasting and a PPO policy trained against multiple baseline heuristics.
 
-> **Note:** this repo predates a rename — despite the `LLM_Research` name, it does not use LLMs. It's a demand forecasting + RL scheduling project. (Renaming the GitHub repo itself, e.g. to `smart-city-rl`, is recommended.)
 
 ## Overview
 
