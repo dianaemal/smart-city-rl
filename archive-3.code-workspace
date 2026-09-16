@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "archive-3",
+			"path": "../Downloads/archive-3"
+		},
+		{
+			"name": "archive-4",
+			"path": "../Downloads/archive-4"
+		},
+		{
+			"name": "LLM_Research",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

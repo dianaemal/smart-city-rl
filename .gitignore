@@ -1,1 +1,4 @@
 *Van_data.csv
+data/
+venv/
+__pycache__/
